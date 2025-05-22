@@ -1,4 +1,4 @@
-# 🎨 Neural Style Transfer with TensorFlow
+# Neural Style Transfer with TensorFlow
 
 This project implements Neural Style Transfer (NST) using both:
 1. **Custom VGG19-based approach**
@@ -7,20 +7,21 @@ This project implements Neural Style Transfer (NST) using both:
 ### The goal is to stylize a content image using the patterns from a style image.
 
 
-## 🚀 How It Works
+## How It Works
 
 - Uses TensorFlow and VGG19 to extract features from content and style images.
 - Optimizes a generated image to combine the content and style representations.
 - Optionally uses a ready-made model from [TensorFlow Hub]
 
 
-## 🧪 Demos in PPT 
+## Demos in PPT 
 
 [View the report](https://github.com/Tridibesh-033/neural-style-transfer/blob/main/power_point_slide.pdf)
 
-## Code 
+## Code Demo
 
 [View the report](https://github.com/Tridibesh-033/neural-style-transfer/blob/main/neural-style-transfer.ipynb)
+
 
 ## Technologies Used
 
@@ -30,7 +31,6 @@ This project implements Neural Style Transfer (NST) using both:
 - PIL
 - Matplotlib
 - Streamlit (for future deployment)
-
 
 
 ## Future Goals
