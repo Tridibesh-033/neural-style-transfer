@@ -14,11 +14,9 @@ This project implements Neural Style Transfer (NST) using both:
 - Optionally uses a ready-made model from [TensorFlow Hub]
 
 
-## 🧪 Demos
+## 🧪 Demos in PPT 
+![img alt](https://github.com/Tridibesh-033/neural-style-transfer/blob/main/neural-style-transfer.ipynb)
 
-
-
----
 
 ## Technologies Used
 
@@ -29,9 +27,9 @@ This project implements Neural Style Transfer (NST) using both:
 - Matplotlib
 - Streamlit (for future deployment)
 
----
 
-## 🌱 Future Goals
+
+## Future Goals
 
 - [ ] ✅ Add GUI with Streamlit.
 - [ ] ✅ Deploy on [Streamlit Cloud]
@@ -39,13 +37,10 @@ This project implements Neural Style Transfer (NST) using both:
 - [ ] 🧪 Integrate evaluation metrics (SSIM, PSNR).
 - [ ] 📈 Add image quality comparison dashboard.
 
----
+
 
 ## Deployment Status
 
 **Not deployed yet.**  
 **Will deploy using Streamlit soon.**
-
----
-
 
