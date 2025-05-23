@@ -22,6 +22,10 @@ This project implements Neural Style Transfer (NST) using both:
 
 [View the report](https://github.com/Tridibesh-033/neural-style-transfer/blob/main/neural-style-transfer.ipynb)
 
+## Demonstration video
+
+https://github.com/Tridibesh-033/neural-style-transfer/blob/main/project_demonstration.mp4
+
 
 ## Technologies Used
 
