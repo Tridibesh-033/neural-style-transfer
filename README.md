@@ -14,11 +14,11 @@ This project implements Neural Style Transfer (NST) using both:
 - Optionally uses a ready-made model from [TensorFlow Hub]
 
 
-## Demos in PPT 
+## Demos in PPT slides
 
 https://github.com/Tridibesh-033/neural-style-transfer/blob/main/power_point_slide.pdf
 
-## Code Demo
+## Code demos in Kaggle notebook
 
 https://github.com/Tridibesh-033/neural-style-transfer/blob/main/neural-style-transfer.ipynb
 
