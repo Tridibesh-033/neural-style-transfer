@@ -16,11 +16,11 @@ This project implements Neural Style Transfer (NST) using both:
 
 ## Demos in PPT 
 
-[View the report](https://github.com/Tridibesh-033/neural-style-transfer/blob/main/power_point_slide.pdf)
+https://github.com/Tridibesh-033/neural-style-transfer/blob/main/power_point_slide.pdf
 
 ## Code Demo
 
-[View the report](https://github.com/Tridibesh-033/neural-style-transfer/blob/main/neural-style-transfer.ipynb)
+https://github.com/Tridibesh-033/neural-style-transfer/blob/main/neural-style-transfer.ipynb
 
 ## Demonstration video
 
